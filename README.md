@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Engineering and Web Development 
 - 🌱 I’m currently learning  
 Java Springboot,  
-REACT (again),  
+REACT,  
 and AWS
 - 💞️ I’m looking to collaborate on Linux FOSS software and kernal development and perhaps a touch of GNOME visual theming  
 - 📫 How to reach me: my email - jdbennett1994@gmail.com
